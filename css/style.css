@@ -1,0 +1,19 @@
+body {
+    background-image:url("../img/sky-nature-wallpaper-phone.jpg");
+    background-size: cover;
+    box-sizing: content-box;
+}
+
+.content{
+    background-color: rgba(245, 245, 220, 0.53);
+    box-sizing: content-box;
+    padding: 40px;
+}
+.btn {
+    background-color: #FFCBB1;
+    transition: all 0.5s;
+}
+.btn:hover {
+    background-color: #0fd3d0;
+    border: 1px solid black;
+}
